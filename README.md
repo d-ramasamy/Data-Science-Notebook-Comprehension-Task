@@ -11,18 +11,18 @@ By taking part in the experiment, you provide your consent for the recording. Yo
 ---Instructions---
 
 You will be given:
-    *A notebook solving a data science task and its corresponding data files
-    *A set of program comprehension questions
-    *You may or may not receive additional information on the notebook
+    * A notebook solving a data science task and its corresponding data files
+    * A set of program comprehension questions
+    * You may or may not receive additional information on the notebook
 
 You will need to:
     * record the answers for the questions (in order) in the given file.
     * think-aloud in order for us to record your thoughts throughout the process.
 
 At the end of the experiment we will obtain the following things:
-    *The audio & video recording of the data scientist thinking aloud while answering the questions in screen-sharing mode
-    *answers to the questions
-    *modified code if any
+    * The audio & video recording of the data scientist thinking aloud while answering the questions in screen-sharing mode
+    * answers to the questions
+    * modified code if any
 
 The notebook given to you solves the following data science task:
     Compare housing and rental prices in five major cities on the United States’ west coast. Five major cities in this task are: Seattle, Portland, San Francisco, Los Angeles, San Diego.
