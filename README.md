@@ -2,9 +2,9 @@
 
 Welcome to the upwork task:
 
-This is an experiment to understand the comprehension process of a data scientist for a given data science task.
+This is an experiment to understand the comprehension process of a data scientist for a given Jupyter Notebook.
 
-The task requires you to answer program comprehension questions related to the given data science notebook. The experiment will be recorded in Skype (only screen sharing) and will be used only for research purposes. The notebook that is provided is developed using Jupyter notebook and Python as a programming language by another data scientist. 
+The task requires you to answer program comprehension questions related to the given data science notebook. The experiment will be recorded on Skype (only screen sharing) and will be used only for research and documentation purposes. The notebook that is provided is developed using Jupyter notebook and Python as a programming language by another data scientist. 
 
 By taking part in the experiment, you provide your consent for the screen share recording. You will require ~1.5 hours in total to complete this task.
 
@@ -16,7 +16,7 @@ You will be given:
 * You may or may not receive additional information on the notebook
 
 You will need to:
-* record the answers for the questions (in exact order) in the survery questions.
+* record the answers for the questions (in exact order) in the survey questions.
 
 At the end of the experiment we will obtain the following things:
 * The recording of the experiment while answering the questions in screen-sharing mode
